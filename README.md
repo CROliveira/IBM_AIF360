@@ -16,6 +16,7 @@ Von-Melle-Park 5
 
 Financial: Status of existing checking account
 1:      ... <    0 DM 
+
 2: 0 <= ... <  200 DM
 3:      ... >= 200 DM /salary assignments for at least 1 year
 0: no checking account 
